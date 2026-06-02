@@ -7,5 +7,5 @@ Feel free to check out my work here:
 
 Email: sheryl [AT] liang [DOT] at
 
-<img src="https://github.com/ysl208/ysl208.github.io/blob/master/Baxter.png" width="400" />
+<img src="./Baxter.png" width="400" />
 
