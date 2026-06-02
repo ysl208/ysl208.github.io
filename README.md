@@ -2,7 +2,10 @@ Hi, I am Sheryl and I work in Robotics. I am interested in developing generalisa
 
 My interests include, but are not limited to: End-user Robotics, Cognitive Robotics, Learning from Demonstration, Human-Robot Interaction.
 
-
+Feel free to check out my work here:
 [CV](Liang_CV.pdf) - [LinkedIn](https://linkedin.com/in/ysliang) - [GoogleScholar](https://scholar.google.fr/citations?user=P0RMyasAAAAJ&hl) - [GitHub](https://github.com/ysl208) - [Youtube](https://www.youtube.com/channel/UCyzWw7khDDUz-McZfZXoz4Q)
 
 Email: sheryl [AT] liang [DOT] at
+
+<img src="https://github.com/ysl208/ysl208.github.io/blob/master/Baxter.png" width="400" />
+
